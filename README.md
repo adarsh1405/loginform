@@ -1,16 +1,14 @@
 # loginform
-> Login Form desinged for JustInClicks.com for screening round
 
+ Login Form desinged for JustInClicks.com for screening round
 
 **FEATURES INCLUDED**
 
- -A friendly / attractive UI
+ - A friendly/attractive UI
+ - watermark in username & password 
+ - Animation with progressbar and lots more to include
  
- -watermark in username & password
- 
- -Animation with progressbar and lots more to include
- 
- #SCREENSHOTS
+ # SCREENSHOTS
  ![](https://github.com/adarsh1405/loginform/blob/master/op/op1.PNG)
  
  ![](https://github.com/adarsh1405/loginform/blob/master/op/op2.PNG)
