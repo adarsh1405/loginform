@@ -5,7 +5,9 @@
 **FEATURES INCLUDED**
 
  -A friendly / attractive UI
+ 
  -watermark in username & password
+ 
  -Animation with progressbar and lots more to include
  
  #SCREENSHOTS
