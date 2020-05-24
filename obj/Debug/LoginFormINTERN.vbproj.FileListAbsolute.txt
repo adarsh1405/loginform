@@ -1,0 +1,15 @@
+C:\Users\adars\source\repos\LoginFormINTERN\bin\Debug\LoginFormINTERN.exe.config
+C:\Users\adars\source\repos\LoginFormINTERN\bin\Debug\LoginFormINTERN.exe
+C:\Users\adars\source\repos\LoginFormINTERN\bin\Debug\LoginFormINTERN.pdb
+C:\Users\adars\source\repos\LoginFormINTERN\bin\Debug\LoginFormINTERN.xml
+C:\Users\adars\source\repos\LoginFormINTERN\obj\Debug\LoginFormINTERN.vbprojAssemblyReference.cache
+C:\Users\adars\source\repos\LoginFormINTERN\obj\Debug\LoginFormINTERN.Form1.resources
+C:\Users\adars\source\repos\LoginFormINTERN\obj\Debug\LoginFormINTERN.Resources.resources
+C:\Users\adars\source\repos\LoginFormINTERN\obj\Debug\LoginFormINTERN.vbproj.GenerateResource.cache
+C:\Users\adars\source\repos\LoginFormINTERN\obj\Debug\LoginFormINTERN.vbproj.CoreCompileInputs.cache
+C:\Users\adars\source\repos\LoginFormINTERN\obj\Debug\LoginFormINTERN.exe
+C:\Users\adars\source\repos\LoginFormINTERN\obj\Debug\LoginFormINTERN.xml
+C:\Users\adars\source\repos\LoginFormINTERN\obj\Debug\LoginFormINTERN.pdb
+C:\Users\adars\source\repos\LoginFormINTERN\bin\Debug\Guna.UI2.dll
+C:\Users\adars\source\repos\LoginFormINTERN\obj\Debug\LoginFormINTERN.vbproj.CopyComplete
+C:\Users\adars\source\repos\LoginFormINTERN\obj\Debug\LoginFormINTERN.msg.resources
